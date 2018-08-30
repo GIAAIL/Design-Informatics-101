@@ -9,7 +9,7 @@ Design Informatics regards the science, experiments and practices of data, infor
 
 ## Must read 新手必讀
 
-* [Readers](Readers.md) 參考讀物
+* [Readers 參考讀物](Readers.md)
 
 ## Get your hands dirty
 
