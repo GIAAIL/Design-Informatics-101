@@ -6,6 +6,6 @@ Useful resources for new members to the Design Informatics Lab (DIL).\
 何謂設計資訊學？
 
 ## Must read 新手必讀
-* [Readers](Readers) 參考讀物
+* [Readers](Readers.md) 參考讀物
 
 ## Get your hands dirty
