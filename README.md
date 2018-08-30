@@ -1,6 +1,6 @@
-# Design-Informatics-101
+# Design Informatics 101
 Useful resources for new members to the Design Informatics Lab (DIL).\
-本研究室新人重要資訊。
+設計資訊學研究室新進夥伴重要資訊。
 
 ## What is Design Informatics?\
 何謂設計資訊學？
