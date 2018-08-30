@@ -1,5 +1,7 @@
 # Readers
 
+This list was originally posted on [Prototyping Ideas](https://prototypingideas.blogspot.com/2018/02/design-informatics-lab.html) blog.
+
 ## Topics & keywords
 
 * Design Informatics 設計資訊學
